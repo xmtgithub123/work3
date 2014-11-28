@@ -1,0 +1,213 @@
+body{
+	background-color: #EEEEEE;
+	margin: auto;
+	padding: auto;
+}
+#logo{
+	width: 40px;
+
+	display: inline-block;
+	margin-right: 10px;
+	vertical-align: middle;
+	
+
+}
+.navbar-brand a {
+	color: #34495e;
+	font-size: 20px;
+}
+
+.navbar-brand{
+	font-family: 'Yummo';
+	padding-top: 15px;
+	color: #777;
+	line-height: 1.042;
+	font-weight: 700;
+	padding: 14px 21px;
+	float: left;
+	height: 50px;
+}
+.container{
+	width: 80%;
+	margin-left: 10%;
+	margin-right: 10%;
+	height: 60px;
+
+}
+
+
+
+.navbar-nav>li>a {
+
+font-weight: 700;
+color: #34495E;
+margin-top: 5px;
+margin-left: 12px;
+}
+.navbar-default .navbar-nav>li>a {
+color: #34495e;
+}
+#yellow{
+	height: 613px;
+	width: 1522px;
+	background: url(../../img/d1.png);
+	background-color: #EEEEEE;
+
+}
+#word{
+	
+	width:600px;
+	
+  	margin-top: 100px;
+  	margin-left: 430px;
+  	float: left;
+}
+#car{
+	padding-top: 185px;
+}
+#col{
+	
+	width:600px;
+	height: 180px;
+  	margin-top: -400px;
+  	margin-left: 830px;
+  	float: left;
+  	color: #000000;
+}
+#p1{ 
+	color: #ffffff;
+	font-size: 50px;
+	font-family: SimHei;
+	
+}
+#p2{ 
+	color: #ffffff;
+	width: 250px;
+	font-size: 50px;
+           padding-top: 2px;
+           
+            
+}
+#p3{ 
+	color: #ffffff;
+	font-size: 30px;
+}
+#p4{ 
+	color: #ffffff;
+	font-size: 15px;
+	font-family: SimHei;
+
+
+}
+#p5{ 
+	color: #ffffff;
+	font-size: 15px;
+	font-family: SimHei;
+	
+}
+#pic1{
+	
+	height: 84px;
+	width: 314px;
+  	margin:auto;
+  	margin-top: 90px;
+  	margin-bottom: 30px;
+
+}
+.line{  width: 800px ;	
+	height: 0px;
+	margin:auto;
+	border: thin solid #787878;
+	margin-bottom: 50px;
+ 
+}
+#pro p{
+	color: #787878;
+	font-family: SimHei;
+}
+#pro{
+	
+	margin:auto;
+	width: 800px;
+	margin-top: 50px;
+}
+#botton{
+	border:thin  solid red;
+	width: 1440px;
+   	background-color: #0D0C0A;
+   	height: 500px;
+   	margin-top: 150px;
+}
+#text{
+	
+	width: 500px;
+	height: 400px;
+	margin-left: 150px;
+	margin-top: 50px;
+ 	margin-left: 150px;
+ 	float: left;
+}
+#text p input{
+ 	width: 500px;
+ 	height: 40px;
+ 	border:1px solid #181715;
+	color:#CCCCCC;
+	border-top-color: #181715;
+	border-right-color: #181715;
+	border-bottom-color: #181715;
+	background-color: #31312F;
+}
+
+#test p input sugg{
+	width: 500px;
+	height: 300px;
+}
+#area{
+	background-color: #31312F;
+	border:1px solid #181715;
+	width: 500px;
+}
+#submit{
+	margin-left:225px;
+	padding:8px 25px 8px 25px;
+	font-size:15px;
+	color:#ffffff;
+	border:1px solid #1ABB9C;
+	background-color: #1ABB9C;
+	font-weight: normal;
+	margin-left:1px;
+	float: left;}
+}
+#fs{
+	color: #ffffff;
+}
+#text1{
+	
+	width: 500px;
+	height: 400px;
+	
+	margin-top: 50px;
+ 	margin-left:700px;
+}
+#imfor{
+	color: #CDC3B5;
+	font-family: SimHei;
+	margin-top: 63px;
+}.col-md p{
+	text-align: justify;
+}
+#botton{
+	border:thin  solid red;
+   	background-color: #0D0C0A;
+   	height: 500px;
+   	margin-top: 150px;
+}
+#contact-parallax{
+	background-color: #070707;
+	height: 460px;
+}
+.form-group input{
+	border:1px solid #181715;
+	color:#CCCCCC;
+	background-color: #31312F;
+}
